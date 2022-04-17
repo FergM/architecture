@@ -1,6 +1,11 @@
 # About
 Inspired by the concept of antipatterns in computer programming.
 
+### Contents
+* [Fast Roads](#fast-roads)
+* [Dublin Transport](#dublin-transport)
+* [Wind From Tall Buildings](#wind-from-tall-buildings)
+
 ### Fast Roads
 Antipattern: Wide curving city roads with traffic lights where cars consistently speed
 
@@ -45,3 +50,21 @@ Detail:
 * Bangalore is perhaps similar (heavy traffic and slow to get around the city)
     * However taxis are much cheaper relative to wealth
     * Areas of the city are somewhat self contained with amenities (less need to travel)
+
+# Wind From Tall Buildings
+Antipattern:
+* Tall buildings create tunnels of unpleasant wind for pedestriance
+
+Antidote:
+* Mid-rise gentle density
+* Wind modelling
+* Windy streets (pun intended!)
+
+Examples:
+* 22 Bishopsgate, City of London
+
+Detail:
+* It doesn't have to be tall buildings
+    * Mid-rise can create undesired tunnelling effects
+    * I've seen people struggle to walk south along One Dockland Centra, Guild Street Dublin
+    * It was a weathery day but the building design accentuated things in this location
