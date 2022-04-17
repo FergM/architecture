@@ -1,8 +1,13 @@
 # Modern Architecture
 I mean this in the broad sense of Modern vs. Traditional.
 
+### Contents
+* [Twitter Memes](#twitter-memes)
+* [Best Modern](#best-modern)
+* [Today's Architecture](#todays-architecture)
+
 ### Twitter Memes
-See Architects Against Humanity [@arch_crimes](https://twitter.com/arch_crimes)
+See *Architects Against Humanity*: [@arch_crimes](https://twitter.com/arch_crimes)
 * The general pattern is "look at these pretty old traditional buildings then look at this ugly modern building"
 
 ### Best Modern
@@ -12,14 +17,14 @@ The Gurkin, City of London
 * It's a landmark and people like it, hard to argue with that.
 * I do think the base is a bit bare and farr less pleasant than the lovely Leadenhall Market nearby.
 
-Millenium Bride
+Millenium Bridge
 
 London Eye
 
 The Walkie Talkie
 
-### The State of Architecture
-Rough:
+### Today's Architecture
+The State of Architecture today (roughwork):
 * Architecture schools
     * No longer teach key elements of traditional architecture
     * It's hard to find traditional architects
