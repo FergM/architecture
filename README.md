@@ -12,6 +12,12 @@ Here's a [**Twitter List**](https://twitter.com/i/lists/1322508700649750528) wit
 * Starchitect @LeonKrier
 * History @Trad_Arch_Bdays
 
+### Key Concepts
+* Gentle Density
+* Design for 100 Years
+* Visual coherence
+* Multi-scale Ornamentation
+
 ### Other
 * [Antipatterns](antipatterns.md)
 * [Roughwork](roughwork.md)
