@@ -51,7 +51,7 @@ Detail:
     * However taxis are much cheaper relative to wealth
     * Areas of the city are somewhat self contained with amenities (less need to travel)
 
-# Wind From Tall Buildings
+### Wind From Tall Buildings
 Antipattern:
 * Tall buildings create tunnels of unpleasant wind for pedestriance
 
