@@ -56,9 +56,9 @@ Antipattern:
 * Tall buildings create tunnels of unpleasant wind for pedestriance
 
 Antidote:
+* Windy streets (pun intended!)
 * Mid-rise gentle density
 * Wind modelling
-* Windy streets (pun intended!)
 
 Examples:
 * 22 Bishopsgate, City of London
