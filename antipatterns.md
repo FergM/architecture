@@ -68,3 +68,4 @@ Detail:
     * Mid-rise can create undesired tunnelling effects
     * I've seen people struggle to walk south along One Dockland Centra, Guild Street Dublin
     * It was a weathery day but the building design accentuated things in this location
+* [BBC: The problem with the skyscraper wind effect](https://www.bbc.co.uk/news/magazine-33426889)
