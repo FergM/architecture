@@ -7,11 +7,11 @@ I mean this in the broad sense of Modern vs. Traditional.
 * [Today's Architecture](#todays-architecture)
 
 ### Twitter Memes
-See *Architects Against Humanity*: [@arch_crimes](https://twitter.com/arch_crimes)
-* The general pattern is "look at these pretty old traditional buildings then look at this ugly modern building"
+See [*Architects Against Humanity*](https://twitter.com/arch_crimes) on twitter: 
+* The general pattern of tweets is "look at these pretty old traditional buildings then look at this ugly modern building"
 
 ### Best Modern
-Some of my favourite examples of modern architecture:
+Some of my favourite modern architecture:
 
 ##### London
 * Millenium Bridge
@@ -58,7 +58,7 @@ The State of Architecture today (roughwork):
         * Looks better from far away
         * Monster scaled cylindrical pillars
         * Ground level consists of air vents
-        * Generally even the best modern buildings struggle to feel warm to pedestrians on the outside
+        * **Generally even the best modern buildings struggle to feel warm to pedestrians on the outside**
         * Pedestrians beside the building just see bland surfaces
         * Contrast with multi-scale traditional ornamentation which is warm and welcoming for pedestrians
     * Rough Examples
