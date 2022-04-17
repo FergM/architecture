@@ -1,6 +1,4 @@
-# Architecture & Planning
-
-# Rough Notes
+# Rolling Rough Notes
 London Buildings
 * **Natural History Museum** (1881)
     * [Alfred Waterhouse building](https://www.nhm.ac.uk/discover/alfred-waterhouse-museum-building-cathedral-to-nature.html)
