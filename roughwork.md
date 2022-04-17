@@ -1,21 +1,6 @@
 # Architecture & Planning
 
-### Concepts
-* Gentle Density
-* Design for 100 Years
-* Visual coherence
-* Multi-scale Ornamentation
 
-### Twitter
-Here's a [Twitter List](https://twitter.com/i/lists/1322508700649750528) with my favourites, including the following:
-* Gentle Density @createstreets
-* Urbanism @SCP_Hughes
-* Beautiful Threads @wrathofgnon
-* Classic Planning @Nir_Buras
-* London @RobertKwolek
-* Ireland @ImprctclArchtct
-* Starchitect @LeonKrier
-* History @Trad_Arch_Bdays
 
 ### Prizes
 
