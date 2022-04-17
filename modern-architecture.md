@@ -11,17 +11,25 @@ See *Architects Against Humanity*: [@arch_crimes](https://twitter.com/arch_crime
 * The general pattern is "look at these pretty old traditional buildings then look at this ugly modern building"
 
 ### Best Modern
-Some modern architecture which I've got to admit is not the worst ;).
+Some of my favourite examples of modern architecture:
 
-The Gurkin, City of London
-* It's a landmark and people like it, hard to argue with that.
-* I do think the base is a bit bare and farr less pleasant than the lovely Leadenhall Market nearby.
+##### London
+* Millenium Bridge
+   * Pedestrian bridge
+* The Gurkin, City of London
+   * It's a landmark and people like it, hard to argue with that.
+* V&A Museum Courtyard
+   * This is actually surrounded by traditional buildings
+   * But the courtyard garden is modernist
+   * It's a lovely place to relax with a central paddling pond that is popular with kids
+   * Aside: Contrast this with the Natural History Museum's oval space for the Indian Ocean Tsunami Memorial
+* The Walkie Talkie
+* London Eye
+   * The modern Landmark comparable Tower Bridge in its iconicness
 
-Millenium Bridge
-
-London Eye
-
-The Walkie Talkie
+##### Europe
+EPFL Rolex Learning Center: [google](https://www.google.com/search?q=rolex+learning+center)
+* University Library
 
 ### Today's Architecture
 The State of Architecture today (roughwork):
@@ -45,3 +53,16 @@ The State of Architecture today (roughwork):
     * Has turned buildings from a craft into an assembly
     * Is related to why *Modernism* rejects ornamentation
     * Explains WWI/WWII as a watershed moment for architecture
+* Unwelcoming for Pedestrians
+    * Not human scaled
+        * Looks better from far away
+        * Monster scaled cylindrical pillars
+        * Ground level consists of air vents
+        * Generally even the best modern buildings struggle to feel warm to pedestrians on the outside
+        * Pedestrians beside the building just see bland surfaces
+        * Contrast with multi-scale traditional ornamentation which is warm and welcoming for pedestrians
+    * Rough Examples
+        * Gurkin/Shard/Walkie Talkie base vs. Bank of England/St. Paul's Cathedral/Finsbury Circus
+        * Finsbury Circus vs. Broadgate Circle (Both good on a sunny day with people around)
+        * Leadenhall Market vs. Bloomberg Arcade (BBG is good but I think Leadenhall is even better)
+
