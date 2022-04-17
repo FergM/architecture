@@ -1,4 +1,62 @@
 # Rolling Rough Notes
+
+Show multiple options (including a traditional one) before deciding
+Show existing very similar examples (iterate small improvements) too risky to screw up the whole area on people...
+
+Beauty vs Novelty
+
+traditional.md
+* Contemporary
+    * Schools (Northern Europe, Notre Dame)
+    * Architects (Quinlan Terry Architects UK, Sebastian Treese Germany)
+* Historic
+    * Vitruvius - Ancient Rome
+
+Overoptimised Design
+* City Hall, More London Riverside
+    * TBC what will happen now that the Mayor of London has moved out
+    * There's something to be said for buildings that can "grow" and shift as needs change
+    * Many brick buildings in london show signs of multi-generational growth
+
+Governance
+* Planning
+    * approval by default if fits within certain guidelines
+    * accidentally banning more of what's good
+* Democracy, Representatives
+* Management Committees
+* London management fees
+* Central **Paris**, **Berlin**, Madrid, Barcelona, Lisbon, Brussels, Munich, Lyon
+
+The white shad thames building...
+
+Rules of Thumb
+* Clearly defined entrance location
+* Flat Roofs
+* Ornamentation
+* Looks the same upside down
+
+Anti-Patterns
+* Selfish view buildings
+    * Buildings that have a great view but detract from the view for neighbours
+    * The best thing about X is that it's the only place from which you can't see X.
+    * Examples:
+        * Blueprint Café, Butlers Wharf, 28 Shad Thames, London
+        * Vogans Mill Tower, Mill Street, London
+        * Paris: Tour Montparnasse
+        * Lyon: Tour Part-Dieu
+* Canary Wharf vs. City of London
+    * What is it that makes people prefer city
+    * More bars? Nicer Bars and streets?
+
+Patterns.md
+* city walls
+    * scarcity is the mother of invention
+    * Humans handle scarcity better than abundance
+* london traffic discouragement
+* windy streets
+    * Adam's court, Austin Friars, Throgmorton Ave. 
+    * contrast with canary wharf?
+
 London Buildings
 * **Natural History Museum** (1881)
     * [Alfred Waterhouse building](https://www.nhm.ac.uk/discover/alfred-waterhouse-museum-building-cathedral-to-nature.html)
