@@ -1,7 +1,8 @@
 # Rolling Rough Notes
 
-Show multiple options (including a traditional one) before deciding
-Show existing very similar examples (iterate small improvements) too risky to screw up the whole area on people...
+* Show multiple options (including a traditional one) before deciding
+* Show existing very similar examples (iterate small improvements) too risky to screw up the whole area on people...
+* Beware of Computer Generated images vs. reality
 
 Beauty vs Novelty
 
