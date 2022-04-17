@@ -61,6 +61,10 @@ The State of Architecture today (roughwork):
         * **Generally even the best modern buildings struggle to feel warm to pedestrians on the outside**
         * Pedestrians beside the building just see bland surfaces
         * Contrast with multi-scale traditional ornamentation which is warm and welcoming for pedestrians
+    * Ambiguous Entrance Location
+        * For traditional designs the entrance *portal* is usually visually clear
+        * For modern buildings it's usually less obvious where the entrance is
+        * Signage is often needed to find the entrance
     * Rough Examples
         * Gurkin/Shard/Walkie Talkie base vs. Bank of England/St. Paul's Cathedral/Finsbury Circus
         * Finsbury Circus vs. Broadgate Circle (Both good on a sunny day with people around)
