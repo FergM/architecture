@@ -23,6 +23,7 @@ Governance
 * Planning
     * approval by default if fits within certain guidelines
     * accidentally banning more of what's good
+    * regulating against existing good builds
     * Planning rules sometimes prohibit new builds which would resemble the most popular historic structures
         * [@Cobylefko](https://twitter.com/Cobylefko/status/1509906097741647886)
         * ```
