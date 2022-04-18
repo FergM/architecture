@@ -19,6 +19,8 @@ Here's a [**Twitter List**](https://twitter.com/i/lists/1322508700649750528) wit
 * Multi-scale Ornamentation
 
 ### Other
+* Patterns (To be added)
 * [Antipatterns](antipatterns.md)
+* Traditional Architecture (To be added)
 * [Modern Architecture](modern-architecture.md)
 * [Roughwork](roughwork.md)
