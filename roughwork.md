@@ -70,8 +70,10 @@ Patterns.md
     * Humans handle scarcity better than abundance
 * london traffic discouragement
 * windy streets
+    * i.e. streets that wind and curve, often the opposite of streets with lots of wind gusts
     * Adam's court, Austin Friars, Throgmorton Ave. 
     * contrast with canary wharf?
+    * Increases the mental density? Places feel more diverse. 
 
 United States
 * Project: Benjamin Franklin College and Pauli Murray College, Yale University
