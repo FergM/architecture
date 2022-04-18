@@ -23,6 +23,21 @@ Governance
 * Planning
     * approval by default if fits within certain guidelines
     * accidentally banning more of what's good
+    * Planning rules sometimes prohibit new builds which would resemble the most popular historic structures
+        * [@Cobylefko](https://twitter.com/Cobylefko/status/1509906097741647886)
+        * ```
+            A great irony of our cities is that we love our significant historic structures so much that 
+            we create all kinds of rules to make sure places like them will never be built again.
+          ```
+* Affordable Housing
+    * We shouldn't accept sub-par affordable housing just to make it cheap
+    * It's important to keep the longer term ageing of developments in mind
+    * The best developments arguably increase in value with age
+        * [@Cobylefko](https://twitter.com/Cobylefko/status/1510462066829758471)
+        * ```
+            A lot of affordable housing unfortunately suffers from feeling less than market rate in important ways, 
+            whether through design, planning, structural quality, or other factors.
+          ```
 * Democracy, Representatives
 * Management Committees
 * London management fees
