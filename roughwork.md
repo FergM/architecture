@@ -58,6 +58,11 @@ Patterns.md
     * Adam's court, Austin Friars, Throgmorton Ave. 
     * contrast with canary wharf?
 
+United States
+* Project: Benjamin Franklin College and Pauli Murray College, Yale University
+    * Architect: Robert A.M. Stern Architects
+    * ~2017
+
 London Buildings
 * **Natural History Museum** (1881)
     * [Alfred Waterhouse building](https://www.nhm.ac.uk/discover/alfred-waterhouse-museum-building-cathedral-to-nature.html)
