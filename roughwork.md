@@ -1,4 +1,8 @@
 # Rolling Rough Notes
+Public Buildings
+* Democratic selection
+* Counterproposals
+
 External Resources
 * Many of these resources lists even more resources
    * [Institute of Traditional Architecture](https://www.institute-of-traditional-architecture.org/)
