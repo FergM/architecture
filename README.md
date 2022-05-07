@@ -4,6 +4,7 @@ Fergal's notes about architecture, planning and streets
 ### Twitter
 Here's a [**Twitter List**](https://twitter.com/i/lists/1322508700649750528) with my favourites, including the following:
 * Gentle Density @createstreets
+* New Classical Architecture @michael_diamant
 * Urbanism @SCP_Hughes
 * Beautiful Threads @wrathofgnon
 * Classic Planning @Nir_Buras
