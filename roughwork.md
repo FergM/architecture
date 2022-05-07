@@ -1,4 +1,14 @@
 # Rolling Rough Notes
+External Resources
+* Many of these resources lists even more resources
+   * [Institute of Traditional Architecture](https://www.institute-of-traditional-architecture.org/)
+       * Good resources for self study
+   * [TheAestheticCity.com](https://theaestheticcity.com/about/)
+   * [newtrad.org](https://newtrad.org/)
+   * [classicplanning.org](https://www.classicplanning.org/)
+   * [ArchitecturalUprising](https://www.facebook.com/groups/ArchitecturalUprising/about)
+   * Podcasts
+       * The Aesthetic City: ([iTunes](https://podcasts.apple.com/lu/podcast/the-aesthetic-city/id1613784991), [Spotify](https://open.spotify.com/show/4cU3tcGKXiziKGuvfd3KIa))
 
 * Show multiple options (including a traditional one) before deciding
 * Show existing very similar examples (iterate small improvements) too risky to screw up the whole area on people...
