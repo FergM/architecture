@@ -14,6 +14,7 @@ Here's a [**Twitter List**](https://twitter.com/i/lists/1322508700649750528) wit
 * History @Trad_Arch_Bdays
 
 ### Key Concepts
+* Beauty
 * Gentle Density
 * Design for 100 Years
 * Visual coherence
