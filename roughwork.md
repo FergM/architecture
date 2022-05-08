@@ -3,6 +3,12 @@ Democracy
 * Democratic selection of public buildings would likely increase the amount of traditional architecture
 * These days public commissions are rarely traditional, however the public does like traditional buildings and much more so than most architectural experts and the prevailing architectural establishment.
 
+Education
+* Few architecture schools teach traditional elements these days
+* This creates a skills shortage, even if traditional buildings are desired few people are trained to deliver them
+* Keep in mind that it's hard to think of an ugly building built before WW1 so we must have been doing something very right
+* The Institute of Traditional Architecture amongst others are working to create summer schools and convince architecture deans to include traditional content on curricula
+
 Art Deco
 * You can **just look at a building and tell that it is art deco and guess it was built between the two world wars.**
 * Embraces ornamentation although often more simple stonework than classical buildings  
