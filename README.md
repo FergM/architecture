@@ -10,10 +10,6 @@ I curate this [**Twitter List**](https://twitter.com/i/lists/1322508700649750528
 * London @RobertKwolek
 * Ireland @ImprctclArchtct
 
-### Podcasts
-I recommend **The Aesthetic City** by Ruben Hanssen
-* [iTunes](https://podcasts.apple.com/lu/podcast/the-aesthetic-city/id1613784991), [Spotify](https://open.spotify.com/show/4cU3tcGKXiziKGuvfd3KIa)
-
 ### Key Concepts
 * Objective **Beauty**
 * Gentle Density
@@ -29,5 +25,10 @@ I recommend **The Aesthetic City** by Ruben Hanssen
 * [Roughwork](roughwork.md)
 
 # External Resources
+### Podcasts
+I recommend **The Aesthetic City** by Ruben Hanssen
+* [iTunes](https://podcasts.apple.com/lu/podcast/the-aesthetic-city/id1613784991), [Spotify](https://open.spotify.com/show/4cU3tcGKXiziKGuvfd3KIa)
+
+### Self Study
 * [Institute of Traditional Architecture](https://www.institute-of-traditional-architecture.org/)
 * See the links my [roughwork](roughwork.md) document for more
