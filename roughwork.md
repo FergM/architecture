@@ -52,6 +52,10 @@ traditional.md
     * Architects (Quinlan Terry Architects UK, Sebastian Treese Germany)
 * Historic
     * Vitruvius - Ancient Rome
+* **Insightful Question**
+    * *Can you think of an ugly building built before WW1?* - Joseph Jutras
+    * It's hard to find one. This shows that we must have been doing something right back then
+    * My conclusion is we should reintroduce the traditional teaching which has been dropped from modern architecture curricula 
 
 Overoptimised Design
 * City Hall, More London Riverside
