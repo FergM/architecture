@@ -2,6 +2,7 @@
 Democracy
 * Democratic selection of public buildings would likely increase the amount of traditional architecture
 * These days public commissions are rarely traditional, however the public does like traditional buildings and much more so than most architectural experts and the prevailing architectural establishment.
+* In fact traditional architects largely work on private projects, homes and restorations. New public buildings are difficult to win because these tend to go to the architectural establishment which is modernism dominated.
 
 Education
 * Few architecture schools teach traditional elements these days
