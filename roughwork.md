@@ -1,4 +1,8 @@
 # Rolling Rough Notes
+Democracy
+* Democratic selection of public buildings would likely increase the amount of traditional architecture
+* These days public commissions are rarely traditional, however the public does like traditional buildings and much more so than most architectural experts and the prevailing architectural establishment.
+
 Art Deco
 * You can **just look at a building and tell that it is art deco and guess it was built between the two world wars.**
 * Embraces ornamentation although often more simple stonework than classical buildings  
