@@ -1,4 +1,23 @@
 # Rolling Rough Notes
+Cars
+* Parking
+    * What are good approaches
+    * **Beautiful Multi-storey car parks**?
+        * Inspired by horse "garage" conversions
+        * *Beautiful car park* doesn't have to be an oxymoron
+        * See beautiful brick garages around Shat Thames in London
+        * Put them in more shaded streets so that occupied buildings get priority for sunlight
+    * Avoid
+        * Parking in squares which would make great public spaces
+        * Devoting more land to parking than buildings and public space (Some cities in the USA)
+    * Underground? 
+        * Try to keep street level nice so it's not just ventilation fins.
+    * Discourage Cars?
+        * London congestion and emissions charges
+        * Prioritise metros, bicycles, busses, walkable urban areas
+        * Maintain accessibility for disabled and elderly
+* see fast road notes in antipatterns.md
+
 Democracy
 * Democratic selection of public buildings would likely increase the amount of traditional architecture
 * These days public commissions are rarely traditional, however the public does like traditional buildings and much more so than most architectural experts and the prevailing architectural establishment.
