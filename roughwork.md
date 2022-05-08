@@ -1,4 +1,19 @@
 # Rolling Rough Notes
+Art Deco
+* You can **just look at a building and tell that it is art deco and guess it was built between the two world wars.**
+* Embraces ornamentation although often more simple stonework than classical buildings  
+* Often includes large characteristic statues. Upright with straight lines and not postured and muscular like Michaelangelo's David 
+* Examples
+    * Christ the Redeemer Statue, Rio de Janeiro, Brazil (statue)
+    * Hammersmith Apollo, London (theatre)
+    * The Great Gatsby (movie)
+    * Adelaide House, by London Bridge
+    * St. Olaf House, London Bridge Hospital
+    * 52 Gracechurch St., City of London
+
+Gaudi / Catalan Modernism
+* Embraces ornamentation, in contrast with modernism
+
 Public Buildings
 * Democratic selection
 * Counterproposals
