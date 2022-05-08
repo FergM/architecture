@@ -15,10 +15,10 @@ I recommend **The Aesthetic City** by Ruben Hanssen
 * [iTunes](https://podcasts.apple.com/lu/podcast/the-aesthetic-city/id1613784991), [Spotify](https://open.spotify.com/show/4cU3tcGKXiziKGuvfd3KIa)
 
 ### Key Concepts
-* Beauty
+* Objective **Beauty**
 * Gentle Density
-* Design for 100 Years
 * Visual coherence
+* Design for 100 Years
 * Multi-scale Ornamentation
 
 ### Other Pages
