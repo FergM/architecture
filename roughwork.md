@@ -1,4 +1,23 @@
 # Rolling Rough Notes
+Interior Design
+* All my notes so far are focused on streets and external appearance
+* Offices
+   * In London traditional buildings often have non-traditional interiors
+   * Offices in general are often
+      * utilitarian / minimalist
+      * have lots of flat/white surfaces feel
+      * have little ornamentation or hand crafted furniture
+   * What if we start fitting offices with traditional designs?
+      * Maybe there's an untapped opportunity here
+      * I think office workers might really like working in a traditional office
+      * Or at least one with more ornamentation/handwork/wood
+* Ceilings
+   * Most new ceilings have no ornamentation or plasterwork
+   * When they do it's often cube and circle inspired extrusions rather than nature inspired multi-scale patterns
+   * Again there's probably hidden demand here for beautiful ceilings
+   * In the age of video calls an ornamented ceiling can look quite nice as a background
+   * by plain walls and a flat ceiling can look very bare
+
 Cars
 * Parking
     * What are good approaches
