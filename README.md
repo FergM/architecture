@@ -31,4 +31,4 @@ I recommend **The Aesthetic City** by Ruben Hanssen
 
 ### Self Study
 * [Institute of Traditional Architecture](https://www.institute-of-traditional-architecture.org/)
-* See the links my [roughwork](roughwork.md) document for more
+* See the links in my [roughwork](roughwork.md) document for more
