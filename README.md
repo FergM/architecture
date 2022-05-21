@@ -11,7 +11,7 @@ I curate this [**Twitter List**](https://twitter.com/i/lists/1322508700649750528
 * Ireland @ImprctclArchtct
 
 ### Key Concepts
-* Objective **Beauty**
+* **Beauty** = Objective + Subjective
 * Gentle Density
 * Visual coherence
 * Design for 100 Years
