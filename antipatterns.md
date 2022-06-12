@@ -2,9 +2,30 @@
 Inspired by the concept of antipatterns in computer programming.
 
 ### Contents
+* [Ageing](#ageing)
+* [Over-Insulation](#over-insulation)
 * [Fast Roads](#fast-roads)
 * [Dublin Transport](#dublin-transport)
 * [Wind From Tall Buildings](#wind-from-tall-buildings)
+
+### Ageing
+The problem where a building looks good initially but bad after it reaches 10+ years.
+
+I'm focusing on the design side although maintenance is also a factor.
+
+Rule of Thumb:
+* New builds should be evaluated considering how they will age
+* Beware of unrealistic renderings that don't account for future ageing
+* You can find other projects with similar designs for a guide on how elements will age
+
+Examples:
+* Wooden slats on the outside of a building
+* Flat surfaces that build up dirt / run-off streaks (mouldings and ledges can help here)
+
+### Over Insulation
+The problem where new build apartments are so insulated that they need air conditioning in summer.
+
+Observed in Dublin and London. Typically the apartment gets an *A* grade energy rating but ironically the occupant ends up installing an air conditioner to handle the heat.
 
 ### Fast Roads
 Antipattern: Wide curving city roads with traffic lights where cars consistently speed
