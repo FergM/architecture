@@ -9,7 +9,7 @@ Inspired by the concept of antipatterns in computer programming.
 * [Wind From Tall Buildings](#wind-from-tall-buildings)
 
 ### Ageing
-The problem where a building looks good initially but bad after it reaches 10+ years.
+The problem where **some building looks good initially but bad after 10+ years**.
 
 I'm focusing on the design side although maintenance is also a factor.
 
@@ -23,7 +23,7 @@ Examples:
 * Flat surfaces that build up dirt / run-off streaks (mouldings and ledges can help here)
 
 ### Over Insulation
-The problem where new build apartments are so insulated that they need air conditioning in summer.
+The problem where new build **apartments are so insulated that they need air conditioning** in summer.
 
 Observed in Dublin and London. Typically the apartment gets an *A* grade energy rating but ironically the occupant ends up installing an air conditioner to handle the heat.
 
