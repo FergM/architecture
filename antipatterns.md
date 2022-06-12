@@ -22,6 +22,8 @@ Examples:
 * Wooden slats on the outside of a building
 * Flat surfaces that build up dirt / run-off streaks (mouldings and ledges can help here)
 
+This problem fits in a category of overoptimisation related to financial incentives (short term profits)
+
 ### Over Insulation
 The problem where new build **apartments are so insulated that they need air conditioning** in summer.
 
