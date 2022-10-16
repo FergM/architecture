@@ -1,4 +1,20 @@
 # Rolling Rough Notes
+Housing Density
+* Delhi DDA Case Study
+   * Low, medium and high *Income Group* conventions (LIG, MIG, HIG)
+   * Layout with parks
+   * Would HIG inspired design density work in Dublin?
+* Vienna
+   * Overlay against London/Dublin density
+   * I'm guessing Vienna is the most compact (adjusting for population)
+* Growing vs. Shrinking Cities
+   * Below Peak Population:
+       * Potentially easier to manage demand
+       * Vienna - lots of quality social housing
+       * Chicago - more *free market*
+   * Growing
+       * Dublin / London
+
 Interior Design
 * All my notes so far are focused on streets and external appearance
 * Offices
