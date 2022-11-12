@@ -93,6 +93,7 @@ External Resources
    * [TheAestheticCity.com](https://theaestheticcity.com/about/)
    * [newtrad.org](https://newtrad.org/)
    * [classicplanning.org](https://www.classicplanning.org/)
+       * [On Youtube](https://www.youtube.com/channel/UCIwiqtyLW0KMzG40WrVxuOg)
    * [ArchitecturalUprising](https://www.facebook.com/groups/ArchitecturalUprising/about)
    * Podcasts
        * The Aesthetic City: ([iTunes](https://podcasts.apple.com/lu/podcast/the-aesthetic-city/id1613784991), [Spotify](https://open.spotify.com/show/4cU3tcGKXiziKGuvfd3KIa))
