@@ -1,3 +1,7 @@
+## Mixed Use Zoning
+* See Leon Krier diagrams
+* See thread by [@culturaltutor ](https://twitter.com/culturaltutor/status/1576681543388405760?s=20
+
 ## Ornamentation
 In particular, multi-scale fractal ornamentation.
 
