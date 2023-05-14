@@ -2,9 +2,10 @@
 Fergal's notes about architecture, planning and streets
 
 ### Twitter
-I curate this [**Twitter List**](https://twitter.com/i/lists/1322508700649750528) with my favourit accounts, including the following:
+I curate this [**Twitter List**](https://twitter.com/i/lists/1322508700649750528) with my favourite accounts, including the following:
 * Gentle Density @createstreets
 * New Architecture @michael_diamant
+* Revival of Beauty @\_Aesthetic\_City
 * Urbanism @SCP_Hughes
 * Beautiful Threads @wrathofgnon
 * London @RobertKwolek
@@ -25,10 +26,9 @@ I curate this [**Twitter List**](https://twitter.com/i/lists/1322508700649750528
 * [Roughwork](roughwork.md)
 
 # External Resources
-### Podcasts
-I recommend **The Aesthetic City** by Ruben Hanssen
-* [iTunes](https://podcasts.apple.com/lu/podcast/the-aesthetic-city/id1613784991), [Spotify](https://open.spotify.com/show/4cU3tcGKXiziKGuvfd3KIa)
-
-### Self Study
+* The Aesthetic City by Ruben Hanssen
+  * **Podcasts**: [iTunes](https://podcasts.apple.com/lu/podcast/the-aesthetic-city/id1613784991), [Spotify](https://open.spotify.com/show/4cU3tcGKXiziKGuvfd3KIa)
+  * Youtube: [@the_aesthetic_city](https://www.youtube.com/@the_aesthetic_city)
+  * Website: [theaestheticcity.com](https://theaestheticcity.com/)
 * [Institute of Traditional Architecture](https://www.institute-of-traditional-architecture.org/)
 * See the links in my [roughwork](roughwork.md) document for more
