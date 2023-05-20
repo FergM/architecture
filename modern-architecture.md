@@ -5,6 +5,7 @@ I mean this in the broad sense of Modern vs. Traditional.
 * [Twitter Memes](#twitter-memes)
 * [Best Modern](#best-modern)
 * [Today's Architecture](#todays-architecture)
+* [External Links](#external-links)
 
 ### Twitter Memes
 See [*Architects Against Humanity*](https://twitter.com/arch_crimes) on twitter: 
@@ -70,3 +71,9 @@ The State of Architecture today (roughwork):
         * Finsbury Circus vs. Broadgate Circle (Both good on a sunny day with people around)
         * Leadenhall Market vs. Bloomberg Arcade (BBG is good but I think Leadenhall is even better)
 
+# External Links
+The B1M
+* Construction and Architecture
+* Home Page: [www.theb1m.com](https://www.theb1m.com/)
+* Examples
+    * [Safdie Hillside Habitat for Sunlight](https://www.theb1m.com/video/epic-games-safdie-architects-project-hillside-habitat-67)
