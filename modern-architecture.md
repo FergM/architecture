@@ -77,3 +77,9 @@ The B1M
 * Home Page: [www.theb1m.com](https://www.theb1m.com/)
 * Examples
     * [Safdie Hillside Habitat for Sunlight](https://www.theb1m.com/video/epic-games-safdie-architects-project-hillside-habitat-67)
+
+Architectural Digest
+* Home Page: [architecturaldigest.com](https://www.architecturaldigest.com/)
+* Examples
+    * [Beautiful Post Offices](https://www.architecturaldigest.com/gallery/most-beautiful-post-offices-around-the-world) 
+    * Notice the outlier, the modernist Columbus Indiana Post Office
