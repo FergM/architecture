@@ -20,3 +20,4 @@ Westminster Houses of Parliament
 To Visit
 * Seville
 * Grenada
+* Gdansk (~centre is nice)
