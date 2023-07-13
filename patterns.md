@@ -21,3 +21,4 @@ To Visit
 * Seville
 * Grenada
 * Gdansk (~centre is nice)
+* Bordeaux
