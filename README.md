@@ -18,13 +18,6 @@ I curate this [**Twitter List**](https://twitter.com/i/lists/1322508700649750528
 * Design for 100 Years
 * Multi-scale Ornamentation
 
-### Other Pages
-* Patterns (To be added)
-* [Antipatterns](antipatterns.md)
-* Traditional Architecture (To be added)
-* [Modern Architecture](modern-architecture.md)
-* [Roughwork](roughwork.md)
-
 # External Resources
 * The Aesthetic City by Ruben Hanssen
   * **Podcasts**: [iTunes](https://podcasts.apple.com/lu/podcast/the-aesthetic-city/id1613784991), [Spotify](https://open.spotify.com/show/4cU3tcGKXiziKGuvfd3KIa)
